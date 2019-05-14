@@ -5,6 +5,6 @@
 layout: home
 ---
 
-![myself](/assets/images/me.png){:height="180px" width="120px"}
+![myself](/assets/images/me.png){:height="210px" width="150px"}
 
 Hey I Am Bruce! This is my second commit
