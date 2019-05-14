@@ -7,4 +7,4 @@ layout: home
 
 ![myself](/assets/images/me.png)
 
-Hey I Am Bruce!
+Hey I Am Bruce! This is my second commit
