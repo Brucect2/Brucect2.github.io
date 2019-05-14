@@ -7,4 +7,4 @@ layout: home
 
 ![myself](/assets/images/me.png){:height="210px" width="130px"}
 
-Hey I Am Bruce! This is my second commit
+I am a second-year Ph.D student in the Robotics Institute at Carnegie Mellon University. My research interests lie in computational imaging, computer graphics and computer vision. Currently I am working with Professor Ioannis Gkioulekas on material inference using inverse rendering especially for sub-surface scattering material. Before that, I obtained my Master's degree in Biomedical Engineering at CMU, focusing on medical image analysis, advised by Professor John Galeotti. 
