@@ -5,5 +5,5 @@
 layout: home
 ---
 
-![myself](/assets/images/me.png ){: width=75 height=50 style="float:left; padding:5px"}
+![myself](/assets/images/me.png ){: width=75px height=50px style="float:left; padding:5px"}
 I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). My research interests lie in computational imaging, computer graphics and computer vision. Currently I am working with Professor [Ioannis Gkioulekas](http://www.cs.cmu.edu/~igkioule/) on material inference using inverse rendering especially for sub-surface scattering material. Before that, I obtained my Master's degree in [Biomedical Engineering](https://www.cmu.edu/bme/) at CMU, focusing on medical image analysis, advised by Professor [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/).
