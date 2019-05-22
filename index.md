@@ -10,8 +10,5 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 
 
 
-**Research Interests**|**Research Interests**
-* Computational Imaging|*ds
-* Computer Vision|*ds
-* Computer Graphics|*fsf
-* Deep Learning|*fdf
+**Research Interests**
+* Computational Imaging * Computer Vision * Computer Graphics * Deep Learning
