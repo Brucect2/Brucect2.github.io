@@ -21,7 +21,19 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 
 **Publications**
 
-![jbme](/assets/images/ultrasound.jpg ){: height="130px" width="170px" style="float:left; padding:5px"} [Ultrasound registration: A review](https://www.sciencedirect.com/science/article/pii/S1046202316304789?via%3Dihub) <br/>
+![spie](/assets/images/spie.jpg ){: height="130px" width="170px" style="float:left; padding:5px"} [High frequency ultrasound in-plane registration of deformable finger vessels](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/101332L/High-frequency-ultrasound-in-plane-registration-of-deformable-finger-vessels/10.1117/12.2254708.full?SSO=1) <br/>
+**Chengqian Che**, [Jihang Wang](https://www.linkedin.com/in/jihang-wang-85965839/), [Vijay Gorantla](https://www.upmc.com/media/experts/vijay-gorantla), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) <br/>
+SPIE Medical Imaging: Image Processing, 2017
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+
+
+
+![ultrasound](/assets/images/ultrasound.jpg ){: height="130px" width="170px" style="float:left; padding:5px"} [Ultrasound registration: A review](https://www.sciencedirect.com/science/article/pii/S1046202316304789?via%3Dihub) <br/>
 **Chengqian Che**, [Tejas Sudharshan Mathai](https://www.ri.cmu.edu/ri-people/tejas-sudharshan-mathai/), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) <br/>
 Methods: Image Processing for Biologists, 2016
  <br/>
@@ -30,9 +42,7 @@ Methods: Image Processing for Biologists, 2016
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
- <br/>
+
 ![jbme](/assets/images/jbme_crop.png ){: height="130px" width="170px" style="float:left; padding:5px"} [A Neural Control Model for Horizontal Visual, Auditory and Auditory-Visual Bisensory Stimuli Elicited Saccades](https://www.omicsonline.org/open-access/a-neural-control-model-for-horizontal-visual-auditory-and-auditoryvisual-bisensory-stimuli-elicited-saccades-2155-9538-1000S3:004.php?aid=68348) <br/>
 [Xiu Zhai](https://www.linkedin.com/in/xiu-zhai-40a43417a/), **Chengqian Che**, Benjamin Mazzarese, Allison Colberg, [John Enderle](https://scholar.google.com/citations?user=H73vy_sAAAAJ&hl=en) <br/>
 Journal of Bioengineering & Biomedical Science, 2016
