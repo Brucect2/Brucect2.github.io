@@ -47,7 +47,7 @@ Methods: Image Processing for Biologists, 2016
  <!--*This paper introduces the topic and unique aspects of ultrasound-to-ultrasound image registration, providing a broad introduction and summary of the literature and the field.*-->
  <br/>
  <br/>
-
+ <br/>
 
 ![jbme](/assets/images/jbme_crop.png ){: height="130px" width="170px" style="float:left; padding:5px"} [A Neural Control Model for Horizontal Visual, Auditory and Auditory-Visual Bisensory Stimuli Elicited Saccades](https://www.omicsonline.org/open-access/a-neural-control-model-for-horizontal-visual-auditory-and-auditoryvisual-bisensory-stimuli-elicited-saccades-2155-9538-1000S3:004.php?aid=68348) <br/>
 [Xiu Zhai](https://www.linkedin.com/in/xiu-zhai-40a43417a/), **Chengqian Che**, Benjamin Mazzarese, Allison Colberg, [John Enderle](https://scholar.google.com/citations?user=H73vy_sAAAAJ&hl=en) <br/>
