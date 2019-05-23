@@ -24,4 +24,21 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 ![jbme](/assets/images/jbme_crop.png ){: height="130px" width="170px" style="float:left; padding:5px"} <br/>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![jbme](/assets/images/ultrasound.jpg ){: height="130px" width="170px" style="float:left; padding:5px"}
