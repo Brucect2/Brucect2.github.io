@@ -26,7 +26,6 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 IEEE Winter Conference on Applications of Computer Vision (WACV), 2017
  <br/>
  <!--*This paper addresses the problem of freehand ultrasound probe tracking without requiring an external tracking device, by mounting a video camera on the probe to identify location relative to the patient's external anatomy.*-->
- <br/>
 
 
 ![spie](/assets/images/spie.jpg ){: height="130px" width="170px" style="float:left; padding:5px"} [High frequency ultrasound in-plane registration of deformable finger vessels](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/101332L/High-frequency-ultrasound-in-plane-registration-of-deformable-finger-vessels/10.1117/12.2254708.full?SSO=1) <br/>
