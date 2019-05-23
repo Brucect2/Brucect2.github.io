@@ -27,7 +27,6 @@ IEEE Winter Conference on Applications of Computer Vision (WACV), 2017
  <br/>
  <!--*This paper addresses the problem of freehand ultrasound probe tracking without requiring an external tracking device, by mounting a video camera on the probe to identify location relative to the patient's external anatomy.*-->
  <br/>
- <br/>
 
 
 ![spie](/assets/images/spie.jpg ){: height="130px" width="170px" style="float:left; padding:5px"} [High frequency ultrasound in-plane registration of deformable finger vessels](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/101332L/High-frequency-ultrasound-in-plane-registration-of-deformable-finger-vessels/10.1117/12.2254708.full?SSO=1) <br/>
@@ -37,6 +36,8 @@ SPIE Medical Imaging: Image Processing, 2017
  <!--*We studies a variety of similarity measurements with different pre-processing techniques to find which registration similarity metrics were best suited for HFUS vessel tracking.*-->
  <br/>
  <br/>
+ <br/>
+
 
 
 ![ultrasound](/assets/images/ultrasound.jpg ){: height="130px" width="170px" style="float:left; padding:5px"} [Ultrasound registration: A review](https://www.sciencedirect.com/science/article/pii/S1046202316304789?via%3Dihub) <br/>
