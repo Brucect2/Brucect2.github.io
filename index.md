@@ -21,6 +21,13 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 
 **Publications**
 
+![MVA](/assets/images/MVA.png ){: height="130px" width="170px" style="float:left; padding:5px"} [Improved deep learning-based macromolecules structure classification from electron cryo-tomograms](https://link.springer.com/article/10.1007/s00138-018-0949-4) <br/>
+**Chengqian Che**, [Ruogu Lin](https://www.linkedin.com/in/ruogu-lin-b6b9119a/?locale=en_US), [Xiangrui Zeng](https://www.linkedin.com/in/xiangrui-zeng-9bb8b7101/), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), [Min Xu](https://sites.google.com/view/xulab/about-min-xu?authuser=0) <br/>
+Machine Vision and Applications (MVA), 2018
+ <br/>
+
+
+
 ![wacv](/assets/images/wacv.gif ){: height="130px" width="170px" style="float:left; padding:5px"} [Ultrasound Tracking Using ProbeSight: Camera Pose Estimation Relative to External Anatomy by Inverse Rendering of a Prior High-Resolution 3D Surface Map](https://ieeexplore.ieee.org/document/7926680) <br/>
 [Jihang Wang](https://www.linkedin.com/in/jihang-wang-85965839/), **Chengqian Che**, [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), [Samantha Horvath](http://www.cs.cmu.edu/~./shorvath/index.html), [Vijay Gorantla](https://www.upmc.com/media/experts/vijay-gorantla), [George Stetten](https://stetten.com/) <br/>
 IEEE Winter Conference on Applications of Computer Vision (WACV), 2017
