@@ -21,7 +21,7 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 
 **Publications**
 
-![dr](/assets/images/dr.png ){: height="130px" width="170px" style="float:left; padding:5px"} [Inverse transport networks](https://arxiv.org/abs/1809.10820) <br/>
+![dr](/assets/images/drs.png ){: height="130px" width="170px" style="float:left; padding:5px"} [Inverse transport networks](https://arxiv.org/abs/1809.10820) <br/>
 **Chengqian Che**, [Fujun Luan](https://www.cs.cornell.edu/~fujun/), [Shuang Zhao](https://shuangz.com/), [Kavita Bala](http://www.cs.cornell.edu/~kb/), [Ioannis Gkioulekas](http://www.cs.cmu.edu/~igkioule/) <br/>
 arXiv preprint, 2018
  <br/>
