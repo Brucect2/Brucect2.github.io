@@ -21,6 +21,14 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 
 **Publications**
 
+![dr](/assets/images/drpng ){: height="130px" width="170px" style="float:left; padding:5px"} [Inverse transport networks](https://arxiv.org/abs/1809.10820) <br/>
+**Chengqian Che**, [Fujun Luan](https://www.cs.cornell.edu/~fujun/), [Shuang Zhao](https://shuangz.com/), [Kavita Bala](http://www.cs.cornell.edu/~kb/), [Ioannis Gkioulekas](http://www.cs.cmu.edu/~igkioule/) <br/>
+arXiv preprint, 2018
+ <br/>
+ <br/>
+ <br/>
+
+
 ![MVA](/assets/images/MVA.png ){: height="130px" width="170px" style="float:left; padding:5px"} [Improved deep learning-based macromolecules structure classification from electron cryo-tomograms](https://link.springer.com/article/10.1007/s00138-018-0949-4) <br/>
 **Chengqian Che**, [Ruogu Lin](https://www.linkedin.com/in/ruogu-lin-b6b9119a/?locale=en_US), [Xiangrui Zeng](https://www.linkedin.com/in/xiangrui-zeng-9bb8b7101/), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), [Min Xu](https://sites.google.com/view/xulab/about-min-xu?authuser=0) <br/>
 Machine Vision and Applications (MVA), 2018
