@@ -37,6 +37,7 @@ SPIE Medical Imaging: Image Processing, 2017
 **Chengqian Che**, [Tejas Sudharshan Mathai](https://www.ri.cmu.edu/ri-people/tejas-sudharshan-mathai/), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) <br/>
 Methods: Image Processing for Biologists, 2016
  <br/>
+ *This paper introduces the topic and unique aspects of ultrasound-to-ultrasound image registration, providing a broad introduction and summary of the literature and the field.*
  <br/>
  <br/>
  <br/>
