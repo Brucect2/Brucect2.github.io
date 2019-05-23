@@ -25,12 +25,9 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 **Chengqian Che**, [Jihang Wang](https://www.linkedin.com/in/jihang-wang-85965839/), [Vijay Gorantla](https://www.upmc.com/media/experts/vijay-gorantla), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) <br/>
 SPIE Medical Imaging: Image Processing, 2017
  <br/>
+ *We studies a variety of similarity measurements with different pre-processing techniques to find which registration similarity metrics were best suited for HFUS vessel tracking.*
  <br/>
  <br/>
- <br/>
- <br/>
- <br/>
-
 
 
 ![ultrasound](/assets/images/ultrasound.jpg ){: height="130px" width="170px" style="float:left; padding:5px"} [Ultrasound registration: A review](https://www.sciencedirect.com/science/article/pii/S1046202316304789?via%3Dihub) <br/>
