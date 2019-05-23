@@ -20,3 +20,5 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 
 
 **Publications**
+
+![jbme](/assets/images/me.png ){: height="130px" width="170px" style="float:left; padding:5px"}
