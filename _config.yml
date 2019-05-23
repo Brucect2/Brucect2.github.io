@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Chengqian Che
-author: ---- Contact ----
 address: |
          220 Smith Hall
          Robotics Institute, Carnegie Mellon University
