@@ -21,6 +21,15 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 
 **Publications**
 
+![wacv](/assets/images/wacv.gif ){: height="130px" width="170px" style="float:left; padding:5px"} [Ultrasound Tracking Using ProbeSight: Camera Pose Estimation Relative to External Anatomy by Inverse Rendering of a Prior High-Resolution 3D Surface Map](https://ieeexplore.ieee.org/document/7926680) <br/>
+[Jihang Wang](https://www.linkedin.com/in/jihang-wang-85965839/), **Chengqian Che**, [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), [Samantha Horvath](http://www.cs.cmu.edu/~./shorvath/index.html), [Vijay Gorantla](https://www.upmc.com/media/experts/vijay-gorantla), [George Stetten](https://stetten.com/) <br/>
+IEEE Winter Conference on Applications of Computer Vision (WACV), 2017
+ <br/>
+ *This paper addresses the problem of freehand ultrasound probe tracking without requiring an external tracking device, by mounting a video camera on the probe to identify location relative to the patient's external anatomy.*
+ <br/>
+ <br/>
+
+
 ![spie](/assets/images/spie.jpg ){: height="130px" width="170px" style="float:left; padding:5px"} [High frequency ultrasound in-plane registration of deformable finger vessels](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/101332L/High-frequency-ultrasound-in-plane-registration-of-deformable-finger-vessels/10.1117/12.2254708.full?SSO=1) <br/>
 **Chengqian Che**, [Jihang Wang](https://www.linkedin.com/in/jihang-wang-85965839/), [Vijay Gorantla](https://www.upmc.com/media/experts/vijay-gorantla), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) <br/>
 SPIE Medical Imaging: Image Processing, 2017
