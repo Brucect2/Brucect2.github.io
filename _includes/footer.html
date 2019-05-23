@@ -8,11 +8,7 @@
       <h2 class="footer-heading">{{ site.title | escape }}</h2>
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.address | escape }}
-            {%- endif -%}
+            {{ site.address | escape }}
             </li>
 
             {%- if site.email -%}
