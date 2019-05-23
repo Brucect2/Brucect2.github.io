@@ -25,6 +25,8 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 **Chengqian Che**, [Ruogu Lin](https://www.linkedin.com/in/ruogu-lin-b6b9119a/?locale=en_US), [Xiangrui Zeng](https://www.linkedin.com/in/xiangrui-zeng-9bb8b7101/), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), [Min Xu](https://sites.google.com/view/xulab/about-min-xu?authuser=0) <br/>
 Machine Vision and Applications (MVA), 2018
  <br/>
+ <br/>
+ <br/>
 
 
 
