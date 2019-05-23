@@ -21,7 +21,7 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 
 **Publications**
 
-![jbme](/assets/images/jbme_crop.png ){: height="130px" width="170px" style="float:left; padding:5px"} <br/>
+![jbme](/assets/images/jbme_crop.png ){: height="130px" width="170px" style="float:left; padding:5px"} [A Neural Control Model for Horizontal Visual, Auditory and Auditory-Visual Bisensory Stimuli Elicited Saccades](https://www.omicsonline.org/open-access/a-neural-control-model-for-horizontal-visual-auditory-and-auditoryvisual-bisensory-stimuli-elicited-saccades-2155-9538-1000S3:004.php?aid=68348) <br/>
 
 
 
