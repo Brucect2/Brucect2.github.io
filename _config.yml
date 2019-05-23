@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Chengqian Che
 author: ---- Contact ----
-address: 220 Smith Hall
+address: >-
+         220 Smith Hall
          Robotics Institute, Carnegie Mellon University
          5000 Forbes Avenue
          Pittsburgh, PA 15213
