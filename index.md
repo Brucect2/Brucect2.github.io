@@ -25,7 +25,7 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 [Jihang Wang](https://www.linkedin.com/in/jihang-wang-85965839/), **Chengqian Che**, [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), [Samantha Horvath](http://www.cs.cmu.edu/~./shorvath/index.html), [Vijay Gorantla](https://www.upmc.com/media/experts/vijay-gorantla), [George Stetten](https://stetten.com/) <br/>
 IEEE Winter Conference on Applications of Computer Vision (WACV), 2017
  <br/>
- *This paper addresses the problem of freehand ultrasound probe tracking without requiring an external tracking device, by mounting a video camera on the probe to identify location relative to the patient's external anatomy.*
+ <!--*This paper addresses the problem of freehand ultrasound probe tracking without requiring an external tracking device, by mounting a video camera on the probe to identify location relative to the patient's external anatomy.*-->
  <br/>
  <br/>
 
@@ -34,7 +34,7 @@ IEEE Winter Conference on Applications of Computer Vision (WACV), 2017
 **Chengqian Che**, [Jihang Wang](https://www.linkedin.com/in/jihang-wang-85965839/), [Vijay Gorantla](https://www.upmc.com/media/experts/vijay-gorantla), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) <br/>
 SPIE Medical Imaging: Image Processing, 2017
  <br/>
- *We studies a variety of similarity measurements with different pre-processing techniques to find which registration similarity metrics were best suited for HFUS vessel tracking.*
+ <!--*We studies a variety of similarity measurements with different pre-processing techniques to find which registration similarity metrics were best suited for HFUS vessel tracking.*-->
  <br/>
  <br/>
 
@@ -43,7 +43,7 @@ SPIE Medical Imaging: Image Processing, 2017
 **Chengqian Che**, [Tejas Sudharshan Mathai](https://www.ri.cmu.edu/ri-people/tejas-sudharshan-mathai/), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) <br/>
 Methods: Image Processing for Biologists, 2016
  <br/>
- *This paper introduces the topic and unique aspects of ultrasound-to-ultrasound image registration, providing a broad introduction and summary of the literature and the field.*
+ <!--*This paper introduces the topic and unique aspects of ultrasound-to-ultrasound image registration, providing a broad introduction and summary of the literature and the field.*-->
  <br/>
  <br/>
 
