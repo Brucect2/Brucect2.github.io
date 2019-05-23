@@ -22,7 +22,7 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 **Publications**
 
 ![jbme](/assets/images/ultrasound.jpg ){: height="130px" width="170px" style="float:left; padding:5px"} [Ultrasound registration: A review](https://www.sciencedirect.com/science/article/pii/S1046202316304789?via%3Dihub) <br/>
-**Chengqian Che**, [Tejas Sudharshan Mathai](https://www.ri.cmu.edu/ri-people/tejas-sudharshan-mathai/) <br/>
+**Chengqian Che**, [Tejas Sudharshan Mathai](https://www.ri.cmu.edu/ri-people/tejas-sudharshan-mathai/), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) <br/>
 Methods: Image Processing for Biologists, 2016
  <br/>
  <br/>
