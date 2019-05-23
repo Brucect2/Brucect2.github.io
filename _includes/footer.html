@@ -7,10 +7,18 @@
       <div class="footer-col one-half">
       <h2 class="footer-heading">{{ site.title | escape }}</h2>
         <ul class="contact-list">
-          <li class="p-name">
-            {{ site.address1 | site.address2 | site.address3 | site.address4 |escape }}
+          <li class="p-name1">
+            {{ site.address1 |escape }}
             </li>
-
+            <li class="p-name2">
+              {{ site.address2 | escape }}
+              </li>
+              <li class="p-name3">
+                {{ site.address3 | escape }}
+                </li>
+                <li class="p-name4">
+                  {{ site.address4 | escape }}
+                  </li>
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
