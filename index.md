@@ -50,11 +50,13 @@ Machine Vision and Applications (MVA), 2018
 ![wacv](/assets/images/wacv.gif ){: height="130px" width="130px" style="float:left; padding:5px"} [Ultrasound Tracking Using ProbeSight: Camera Pose Estimation Relative to External Anatomy by Inverse Rendering of a Prior High-Resolution 3D Surface Map](/assets/papers/Wang_WACV_2017.pdf) <br/>
 [Jihang Wang](https://www.linkedin.com/in/jihang-wang-85965839/), **Chengqian Che**, [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), [Samantha Horvath](http://www.cs.cmu.edu/~./shorvath/index.html), [Vijay Gorantla](https://www.upmc.com/media/experts/vijay-gorantla), [George Stetten](https://stetten.com/) <br/>
 IEEE Winter Conference on Applications of Computer Vision (WACV), 2017
- <br/>
+<br/>
+<br/>
+<br/>
  <!--*This paper addresses the problem of freehand ultrasound probe tracking without requiring an external tracking device, by mounting a video camera on the probe to identify location relative to the patient's external anatomy.*-->
 
 
-![spie](/assets/images/spie.jpg ){: height="130px" width="170px" style="float:left; padding:5px"} [High frequency ultrasound in-plane registration of deformable finger vessels](/assets/papers/Che_SPIE_2017.pdf) <br/>
+![spie](/assets/images/spie.jpg ){: height="130px" width="130px" style="float:left; padding:5px"} [High frequency ultrasound in-plane registration of deformable finger vessels](/assets/papers/Che_SPIE_2017.pdf) <br/>
 **Chengqian Che**, [Jihang Wang](https://www.linkedin.com/in/jihang-wang-85965839/), [Vijay Gorantla](https://www.upmc.com/media/experts/vijay-gorantla), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) <br/>
 SPIE Medical Imaging: Image Processing, 2017
  <br/>
@@ -65,7 +67,7 @@ SPIE Medical Imaging: Image Processing, 2017
 
 
 
-![ultrasound](/assets/images/ultrasound.jpg ){: height="130px" width="170px" style="float:left; padding:5px"} [Ultrasound registration: A review](/assets/papers/Che_Methods_2016.pdf) <br/>
+![ultrasound](/assets/images/ultrasound.jpg ){: height="130px" width="130px" style="float:left; padding:5px"} [Ultrasound registration: A review](/assets/papers/Che_Methods_2016.pdf) <br/>
 **Chengqian Che**, [Tejas Sudharshan Mathai](https://www.ri.cmu.edu/ri-people/tejas-sudharshan-mathai/), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) <br/>
 Methods: Image Processing for Biologists, 2016
  <br/>
@@ -74,7 +76,7 @@ Methods: Image Processing for Biologists, 2016
  <br/>
  <br/>
 
-![jbme](/assets/images/jbme_crop.png ){: height="130px" width="170px" style="float:left; padding:5px"} [A Neural Control Model for Horizontal Visual, Auditory and Auditory-Visual Bisensory Stimuli Elicited Saccades](/assets/papers/Zhai_JBBS_2016.pdf) <br/>
+![jbme](/assets/images/jbme_crop.png ){: height="130px" width="130px" style="float:left; padding:5px"} [A Neural Control Model for Horizontal Visual, Auditory and Auditory-Visual Bisensory Stimuli Elicited Saccades](/assets/papers/Zhai_JBBS_2016.pdf) <br/>
 [Xiu Zhai](https://www.linkedin.com/in/xiu-zhai-40a43417a/), **Chengqian Che**, Benjamin Mazzarese, Allison Colberg, [John Enderle](https://scholar.google.com/citations?user=H73vy_sAAAAJ&hl=en) <br/>
 Journal of Bioengineering & Biomedical Science, 2016
 
