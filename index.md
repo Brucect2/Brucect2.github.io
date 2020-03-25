@@ -29,6 +29,14 @@ IEEE Inter­national Conf­erence on Comput­ational Photo­graphy (ICCP), 2020
  <br/>
  <br/>
 
+![bibm](/assets/images/bibm.png ){: height="130px" width="130px" style="float:left; padding:5px"} [TDomain Randomization for Macromolecule Structure Classification and Segmentation in Electron Cyro-tomograms](/assets/papers/Che_BIBM_2019.pdf) <br/>
+**Chengqian Che**, [Xian Zhou](https://www.ri.cmu.edu/ri-people/xian-zhou/), [Xiangrui Zeng](https://www.linkedin.com/in/xiangrui-zeng-9bb8b7101/), [Xin Gao](https://sfb.kaust.edu.sa/Pages/Gao.aspx), [Min Xu](https://sites.google.com/view/xulab/about-min-xu?authuser=0) <br/>
+IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+
 
 ![MVA](/assets/images/MVA.png ){: height="130px" width="170px" style="float:left; padding:5px"} [Improved deep learning-based macromolecules structure classification from electron cryo-tomograms](/assets/papers/Che_MVA_2017.pdf) <br/>
 **Chengqian Che**, [Ruogu Lin](https://www.linkedin.com/in/ruogu-lin-b6b9119a/?locale=en_US), [Xiangrui Zeng](https://www.linkedin.com/in/xiangrui-zeng-9bb8b7101/), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), [Min Xu](https://sites.google.com/view/xulab/about-min-xu?authuser=0) <br/>
