@@ -21,7 +21,7 @@ I am a second-year Ph.D student in the [Robotics Institute](https://www.ri.cmu.e
 
 **Publications**
 
-![dr](/assets/images/newdr.png ){: height="130px" width="170px" style="float:left; padding:5px"} [Towards Learning-based Inverse Subsurface Scattering](/assets/papers/Che_ICCP_2020.pdf) <br/>
+![dr](/assets/images/newdr.png ){: height="130px" width="130px" style="float:left; padding:5px"} [Towards Learning-based Inverse Subsurface Scattering](/assets/papers/Che_ICCP_2020.pdf) <br/>
 **Chengqian Che**, [Fujun Luan](https://www.cs.cornell.edu/~fujun/), [Shuang Zhao](https://shuangz.com/), [Kavita Bala](http://www.cs.cornell.edu/~kb/), [Ioannis Gkioulekas](http://www.cs.cmu.edu/~igkioule/) <br/>
 IEEE Inter­national Conf­erence on Comput­ational Photo­graphy (ICCP), 2020
  <br/>
@@ -39,7 +39,7 @@ Machine Vision and Applications (MVA), 2018
 
 
 
-![wacv](/assets/images/wacv.gif ){: height="130px" width="170px" style="float:left; padding:5px"} [Ultrasound Tracking Using ProbeSight: Camera Pose Estimation Relative to External Anatomy by Inverse Rendering of a Prior High-Resolution 3D Surface Map](/assets/papers/Wang_WACV_2017.pdf) <br/>
+![wacv](/assets/images/wacv.gif ){: height="130px" width="130px" style="float:left; padding:5px"} [Ultrasound Tracking Using ProbeSight: Camera Pose Estimation Relative to External Anatomy by Inverse Rendering of a Prior High-Resolution 3D Surface Map](/assets/papers/Wang_WACV_2017.pdf) <br/>
 [Jihang Wang](https://www.linkedin.com/in/jihang-wang-85965839/), **Chengqian Che**, [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), [Samantha Horvath](http://www.cs.cmu.edu/~./shorvath/index.html), [Vijay Gorantla](https://www.upmc.com/media/experts/vijay-gorantla), [George Stetten](https://stetten.com/) <br/>
 IEEE Winter Conference on Applications of Computer Vision (WACV), 2017
  <br/>
