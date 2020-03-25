@@ -30,7 +30,7 @@ arXiv preprint, 2018
  <br/>
 
 
-![MVA](/assets/images/MVA.png ){: height="130px" width="170px" style="float:left; padding:5px"} [Improved deep learning-based macromolecules structure classification from electron cryo-tomograms](https://link.springer.com/article/10.1007/s00138-018-0949-4) <br/>
+![MVA](/assets/images/MVA.png ){: height="130px" width="170px" style="float:left; padding:5px"} [Improved deep learning-based macromolecules structure classification from electron cryo-tomograms](/assets/papers/Che_MVA_2017.pdf) <br/>
 **Chengqian Che**, [Ruogu Lin](https://www.linkedin.com/in/ruogu-lin-b6b9119a/?locale=en_US), [Xiangrui Zeng](https://www.linkedin.com/in/xiangrui-zeng-9bb8b7101/), [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), [Min Xu](https://sites.google.com/view/xulab/about-min-xu?authuser=0) <br/>
 Machine Vision and Applications (MVA), 2018
  <br/>
