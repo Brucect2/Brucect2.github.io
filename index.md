@@ -29,7 +29,7 @@ IEEE Inter­national Conf­erence on Comput­ational Photo­graphy (ICCP), 2020
  <br/>
  <br/>
 
-![bibm](/assets/images/bibm.png ){: height="130px" width="130px" style="float:left; padding:5px"} [TDomain Randomization for Macromolecule Structure Classification and Segmentation in Electron Cyro-tomograms](/assets/papers/Che_BIBM_2019.pdf) <br/>
+![bibm](/assets/images/bibm.png ){: height="130px" width="130px" style="float:left; padding:5px"} [Domain Randomization for Macromolecule Structure Classification and Segmentation in Electron Cyro-tomograms](/assets/papers/Che_BIBM_2019.pdf) <br/>
 **Chengqian Che**, [Xian Zhou](https://www.ri.cmu.edu/ri-people/xian-zhou/), [Xiangrui Zeng](https://www.linkedin.com/in/xiangrui-zeng-9bb8b7101/), [Xin Gao](https://sfb.kaust.edu.sa/Pages/Gao.aspx), [Min Xu](https://sites.google.com/view/xulab/about-min-xu?authuser=0) <br/>
 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019
  <br/>
@@ -47,7 +47,7 @@ Machine Vision and Applications (MVA), 2018
 
 
 
-![wacv](/assets/images/wacv.gif ){: height="130px" width="170px" style="float:left; padding:5px"} [Ultrasound Tracking Using ProbeSight: Camera Pose Estimation Relative to External Anatomy by Inverse Rendering of a Prior High-Resolution 3D Surface Map](/assets/papers/Wang_WACV_2017.pdf) <br/>
+![wacv](/assets/images/wacv.gif ){: height="130px" width="130px" style="float:left; padding:5px"} [Ultrasound Tracking Using ProbeSight: Camera Pose Estimation Relative to External Anatomy by Inverse Rendering of a Prior High-Resolution 3D Surface Map](/assets/papers/Wang_WACV_2017.pdf) <br/>
 [Jihang Wang](https://www.linkedin.com/in/jihang-wang-85965839/), **Chengqian Che**, [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), [Samantha Horvath](http://www.cs.cmu.edu/~./shorvath/index.html), [Vijay Gorantla](https://www.upmc.com/media/experts/vijay-gorantla), [George Stetten](https://stetten.com/) <br/>
 IEEE Winter Conference on Applications of Computer Vision (WACV), 2017
  <br/>
