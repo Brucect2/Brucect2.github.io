@@ -19,4 +19,4 @@ Besides research, I served as a teaching assistant in the following courses:
     * BME 3120 LabVIEW Basics for Engineers
     * BME 3500 BME 3120 LabVIEW Basics for Engineers
 
-In my spare time, I like reading chinese historical novels and watching movies.
+In my spare time, I like reading Chinese historical novels and watching movies.
