@@ -21,7 +21,6 @@ address4: Pittsburgh, PA 15213
 email: cche@andrew.cmu.edu
 description: Chengqian Che
 baseurl: "Brucect2.github.io" # the subpath of your site, e.g. /blog
-url: "http://chengqianche.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  brucect2
 linkedin_username: Chengqian Che
