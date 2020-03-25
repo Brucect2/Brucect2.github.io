@@ -65,7 +65,7 @@ SPIE Medical Imaging: Image Processing, 2017
  <br/>
  <br/>
  <br/>
-
+ <br/>
 
 
 ![ultrasound](/assets/images/ultrasound.jpg ){: height="130px" width="130px" style="float:left; padding:5px"} [Ultrasound registration: A review](/assets/papers/Che_Methods_2016.pdf) <br/>
@@ -75,7 +75,7 @@ Methods: Image Processing for Biologists, 2016
  <!--*This paper introduces the topic and unique aspects of ultrasound-to-ultrasound image registration, providing a broad introduction and summary of the literature and the field.*-->
  <br/>
  <br/>
-
+ <br/>
 
 ![jbme](/assets/images/jbme_crop.png ){: height="130px" width="130px" style="float:left; padding:5px"} [A Neural Control Model for Horizontal Visual, Auditory and Auditory-Visual Bisensory Stimuli Elicited Saccades](/assets/papers/Zhai_JBBS_2016.pdf) <br/>
 [Xiu Zhai](https://www.linkedin.com/in/xiu-zhai-40a43417a/), **Chengqian Che**, Benjamin Mazzarese, Allison Colberg, [John Enderle](https://scholar.google.com/citations?user=H73vy_sAAAAJ&hl=en) <br/>
